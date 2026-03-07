@@ -1,0 +1,13 @@
+name = "Falopacraft"
+author = "Sephiroth1993"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "db14a20c537fea51e8ae7c3a26bfb3023ae97769f9346a2f2d43b2f3886ff06c"
+
+[versions]
+forge = "47.4.16"
+minecraft = "1.20.1"
