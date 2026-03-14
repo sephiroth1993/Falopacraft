@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "6d3c722391c03ad12a188fb347d5ec435d1d5fa9211597df8f15e066309f5613"
+
+[[files]]
 file = "complementary-reimagined.pw.toml"
 hash = "753adc976b00bdb2f4e060e18700d778d0938c76805c46747acccb139fdc7025"
 metafile = true
@@ -167,7 +171,7 @@ metafile = true
 
 [[files]]
 file = "mods/domum-ornamentum.pw.toml"
-hash = "71388fcd332ae63665aee5ff9234343cafe0dcf4bc998d3c69acf67e9993a2f9"
+hash = "8cf7100e602cd08edfd1353ba8581d4f370830bb723c3c4431ed2cb9f953a6c8"
 metafile = true
 
 [[files]]
@@ -452,7 +456,7 @@ metafile = true
 
 [[files]]
 file = "mods/patchouli.pw.toml"
-hash = "dec2bc011d4ca1d451aaa3eea477f13366bfb13beba0716018f47d9331a50d8e"
+hash = "b2cb681aaf3e6085148392a06d40899239dc299aaf5ce0adf168fc225d922c97"
 metafile = true
 
 [[files]]
@@ -512,17 +516,17 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "e61062426655c219eecbac4c3f08920eaf37f1883ea131528494c502b08d422a"
+hash = "6e05a365647f7094efa4add082f5152d862cf6cf2d04c937d8ae064cbe988709"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "0ea8431331e3a8e384b8ed8bb34e791e742beb6bd115b70ba2fd305384aae053"
+hash = "1b26eb06befa91593f156c50c2474e7c8feab2f1c01447b5a582967a9039c03c"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "3ba72f8e2d54c1811ba24553b58f2a110f743fc36256fb3dbf9f83a15c992a1d"
+hash = "04d3c8219cf5d6a14c83b30400c0785824276119e2dc0f1c5ac803b80ec91047"
 metafile = true
 
 [[files]]
