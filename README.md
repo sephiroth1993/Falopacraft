@@ -4,7 +4,7 @@
 
 Un modpack de Minecraft enfocado en mejorar la experiencia vanilla con contenido de exploración, combate, construcción y calidad de vida, sin alejarse demasiado de la esencia original del juego.
 
-> Los releases se generan automáticamente cada lunes con los mods actualizados. Descargá el `.zip` desde la sección [Releases](../../releases) e importalo en tu launcher de CurseForge.
+> Los releases se generan automáticamente cada lunes con los mods actualizados. Descargá el `.zip` desde la sección [Releases](../../releases) e importalo en tu launcher de preferencia.
 
 ---
 
@@ -179,7 +179,7 @@ Mods de soporte requeridos por otros mods del pack:
 ## Instalación
 
 1. Descargá el `.zip` desde [Releases](../../releases)
-2. Abrí el launcher de CurseForge
+2. Abrí tu launcher de preferencia
 3. Hacé click en **Create Custom Profile** → **Import**
 4. Seleccioná el archivo `.zip` descargado
 
