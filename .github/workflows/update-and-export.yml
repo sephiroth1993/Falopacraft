@@ -58,9 +58,6 @@ jobs:
       - name: Exportar pack para CurseForge
         run: packwiz curseforge export
 
-      - name: Exportar pack para Modrinth
-        run: packwiz modrinth export
-
       - name: Obtener versión del pack
         id: version
         run: |
