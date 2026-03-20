@@ -23,11 +23,14 @@ jobs:
       - name: Checkout repositorio
         uses: actions/checkout@v4
 
+      - name: Instalar Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: "1.22"
+          cache: false
+
       - name: Instalar packwiz
-        run: |
-          curl -Lo packwiz https://github.com/packwiz/packwiz/releases/latest/download/packwiz_linux_amd64
-          chmod +x packwiz
-          sudo mv packwiz /usr/local/bin/packwiz
+        run: go install github.com/packwiz/packwiz@latest
 
       - name: Actualizar todos los mods
         if: ${{ inputs.skip_update != 'true' }}
