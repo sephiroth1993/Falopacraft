@@ -34,7 +34,7 @@ jobs:
 
       - name: Actualizar todos los mods
         if: ${{ inputs.skip_update != 'true' }}
-        run: packwiz update --all
+        run: packwiz update --all -y
 
       - name: Refrescar índice
         run: packwiz refresh
