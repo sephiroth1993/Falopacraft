@@ -99,6 +99,11 @@ hash = "fbe61f16eb71deeb9ecb4c9af7c50de97b56a2d347ee69d65810f8d8678c275a"
 metafile = true
 
 [[files]]
+file = "mods/botania.pw.toml"
+hash = "31862fa4fcae1cd40268e143d166327274d76b365fd1f1fb78e9fae4fdc34cb1"
+metafile = true
+
+[[files]]
 file = "mods/caelus.pw.toml"
 hash = "da069e723737ae49203f7572eb774be0fd21f5f083ce7a7ee1bed25916befca8"
 metafile = true
