@@ -1,8 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".github/workflows/update-and-export.yml"
+hash = "e54feed83a3927fd3d4e27d0d9f390a9eeef149169cede934e0a17753a5f2646"
+
+[[files]]
 file = "README.md"
-hash = "6d3c722391c03ad12a188fb347d5ec435d1d5fa9211597df8f15e066309f5613"
+hash = "fc231aa2dd1e952b581240dcaddda534f7e848ec7eb14ce024efa798305094f9"
 
 [[files]]
 file = "complementary-reimagined.pw.toml"
@@ -171,7 +175,7 @@ metafile = true
 
 [[files]]
 file = "mods/domum-ornamentum.pw.toml"
-hash = "8cf7100e602cd08edfd1353ba8581d4f370830bb723c3c4431ed2cb9f953a6c8"
+hash = "520ba9477e524e2402ab160511a36f804f2d62b87b3448c0d415636782a4df7a"
 metafile = true
 
 [[files]]
@@ -216,7 +220,7 @@ metafile = true
 
 [[files]]
 file = "mods/exposure.pw.toml"
-hash = "c912a4378567ef582842c0b12eae93596bc8d4a6fb9fb4d7382d3b82d3a3ee53"
+hash = "a59d11cc5513f8725c71c1c53e6569912fffbe4ba0daa4530640d731a81ddab4"
 metafile = true
 
 [[files]]
@@ -386,7 +390,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "44d7c270c7235425e6c415cee8d03d013fe68248d0291606da6617ecbac95754"
+hash = "933216fae1c46efc8611bfbf0af29ddb7690ddd88dbd5bb7aa4eaf26b45ae228"
 metafile = true
 
 [[files]]
@@ -416,7 +420,7 @@ metafile = true
 
 [[files]]
 file = "mods/mutil.pw.toml"
-hash = "6161befd655a400fb4a07d8702b62c3f24f828d5ee6336c3dcacd6bcaff78fc1"
+hash = "555fa3f84e00c06fa907205ccb8de29c3a3b64d1e46b78669586f8d2625d825d"
 metafile = true
 
 [[files]]
@@ -516,7 +520,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "6e05a365647f7094efa4add082f5152d862cf6cf2d04c937d8ae064cbe988709"
+hash = "782433f991090207695716539dbf9ffffca9d8228571510bc4148f2fc22e1da4"
 metafile = true
 
 [[files]]
@@ -556,7 +560,7 @@ metafile = true
 
 [[files]]
 file = "mods/tetra.pw.toml"
-hash = "f57be02cce9206a89c699536f208f51a20488044af63807d633165d7de6ad664"
+hash = "35ce036e8b30366cfcba8f30e6fb1f0f74371f6e8d13f35e26588c5d5fa66b5f"
 metafile = true
 
 [[files]]
@@ -581,7 +585,7 @@ metafile = true
 
 [[files]]
 file = "mods/trashslot.pw.toml"
-hash = "050a283840e88c79f3504a68ca717639d8c76f42698fa4d376b10d9840fd5bd3"
+hash = "94733715ef3f6f12e9a4215866060c5956eb16ccddcb99381d16fba35f4fb382"
 metafile = true
 
 [[files]]
