@@ -569,11 +569,6 @@ hash = "f1e2e9cc4758c2cc8e09e6182f70df7d022d65eab7e61279047eaa11f4210b64"
 metafile = true
 
 [[files]]
-file = "mods/tetracelium.pw.toml"
-hash = "40070ccdbae58ee140f3c41b94abb61e88d2496348b00f0b601abab70f0c111a"
-metafile = true
-
-[[files]]
 file = "mods/tooltip-overhaul.pw.toml"
 hash = "d5492eb33462a3dc689df3433d5ce8d1a839095b3b64d8b2556562dadad30b28"
 metafile = true
