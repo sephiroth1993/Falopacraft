@@ -180,7 +180,7 @@ metafile = true
 
 [[files]]
 file = "mods/domum-ornamentum.pw.toml"
-hash = "520ba9477e524e2402ab160511a36f804f2d62b87b3448c0d415636782a4df7a"
+hash = "10cdd1497327f82b19c6e986feb79645033a15aa19cea1f0b8000de4d6f74580"
 metafile = true
 
 [[files]]
@@ -395,7 +395,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "933216fae1c46efc8611bfbf0af29ddb7690ddd88dbd5bb7aa4eaf26b45ae228"
+hash = "b3f037a7bf1815f4e34ec783372f32e733c7b8216a712b98684af948a9802d09"
 metafile = true
 
 [[files]]
@@ -530,7 +530,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "1b26eb06befa91593f156c50c2474e7c8feab2f1c01447b5a582967a9039c03c"
+hash = "0ebc935927f450182bcccc43b377e9449d578f8557fa9afbfc2cede31b0b357e"
 metafile = true
 
 [[files]]
@@ -550,7 +550,7 @@ metafile = true
 
 [[files]]
 file = "mods/structurize.pw.toml"
-hash = "c8a2f30b87b373069774344b8438b607aa4f4966a79c7647292cecf4deca36e5"
+hash = "215ba60e44f8705c21d5fb9b7c46dcd5b7b5ac22918800f337fc53ccaa036744"
 metafile = true
 
 [[files]]
