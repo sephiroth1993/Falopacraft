@@ -1,6 +1,6 @@
 # Falopacraft Minimodpack
 
-**Versión:** 1.0.0 | **Minecraft:** 1.20.1 | **Mod Loader:** Forge 47.4.16
+**Versión:** 1.0.1 | **Minecraft:** 1.20.1 | **Mod Loader:** Forge 47.4.20
 
 Un modpack de Minecraft enfocado en mejorar la experiencia vanilla con contenido de exploración, combate, construcción y calidad de vida, sin alejarse demasiado de la esencia original del juego.
 
@@ -25,6 +25,7 @@ Un modpack de Minecraft enfocado en mejorar la experiencia vanilla con contenido
 | [Mowzie's Mobs](https://www.curseforge.com/projects/250498) | Mobs únicos con mecánicas especiales |
 | [Auto Leveling](https://www.curseforge.com/projects/616126) | Los mobs ganan niveles con el tiempo |
 | [Apotheosis](https://www.curseforge.com/projects/313970) | Overhaul del sistema de encantamientos y spawners |
+| [Hex Casting](https://www.curseforge.com/projects/569849) | Sistema de magia programable mediante runas y hexagramas |
 
 ### 🗺️ Exploración y Mundo
 
@@ -48,6 +49,7 @@ Un modpack de Minecraft enfocado en mejorar la experiencia vanilla con contenido
 | [Integrated Dungeons and Structures](https://www.curseforge.com/projects/605375) | Nuevas estructuras y dungeons integrados |
 | [Immersive Portals](https://www.curseforge.com/projects/355440) | Portales que se pueden ver a través en tiempo real |
 | [Forbidden and Arcanus](https://www.curseforge.com/projects/309858) | Dimensión y materiales mágicos nuevos |
+| [Botania](https://www.curseforge.com/projects/225643) | Magia basada en flores y naturaleza con sistema de maná |
 
 ### 🏗️ Construcción y Decoración
 
@@ -88,7 +90,6 @@ Un modpack de Minecraft enfocado en mejorar la experiencia vanilla con contenido
 | Mod | Descripción |
 |-----|-------------|
 | [Tetra](https://www.curseforge.com/projects/289712) | Sistema modular de herramientas y armas |
-| [tetracelium](https://www.curseforge.com/projects/929534) | Extensión para Tetra |
 | [Elytra Slot](https://www.curseforge.com/projects/317716) | Slot de Elytra dedicado vía Curios |
 | [Wall-Jump](https://www.curseforge.com/projects/909143) | Permite saltar en las paredes |
 | [Waystones](https://www.curseforge.com/projects/245755) | Piedras de teletransporte reutilizables |
@@ -172,7 +173,7 @@ Un modpack de Minecraft enfocado en mejorar la experiencia vanilla con contenido
 
 Mods de soporte requeridos por otros mods del pack:
 
-[Architectury API](https://www.curseforge.com/projects/419699) · [Balm](https://www.curseforge.com/projects/531761) · [Bookshelf](https://www.curseforge.com/projects/228525) · [Caelus API](https://www.curseforge.com/projects/308989) · [Citadel](https://www.curseforge.com/projects/331936) · [Cloth Config](https://www.curseforge.com/projects/348521) · [Configured](https://www.curseforge.com/projects/457570) · [CoroUtil](https://www.curseforge.com/projects/237749) · [Cristel Lib](https://www.curseforge.com/projects/856996) · [Curios API](https://www.curseforge.com/projects/309927) · [FTB Library](https://www.curseforge.com/projects/404465) · [GeckoLib](https://www.curseforge.com/projects/388172) · [Guard Villagers](https://www.curseforge.com/projects/360203) · [Iceberg](https://www.curseforge.com/projects/520110) · [Integrated API](https://www.curseforge.com/projects/817709) · [Lionfish API](https://www.curseforge.com/projects/1001614) · [Lithostitched](https://www.curseforge.com/projects/936015) · [Majrusz Library](https://www.curseforge.com/projects/437409) · [Moonlight Lib](https://www.curseforge.com/projects/499980) · [mutil](https://www.curseforge.com/projects/351914) · [Patchouli](https://www.curseforge.com/projects/306770) · [Placebo](https://www.curseforge.com/projects/283644) · [playerAnimator](https://www.curseforge.com/projects/658587) · [Prism](https://www.curseforge.com/projects/638111) · [Puzzles Lib](https://www.curseforge.com/projects/495476) · [Searchables](https://www.curseforge.com/projects/858542) · [TerraBlender](https://www.curseforge.com/projects/563928) · [TownTalk](https://www.curseforge.com/projects/900364) · [UniLib](https://www.curseforge.com/projects/1056812) · [Valhelsia Core](https://www.curseforge.com/projects/416935) · [Yeetus Experimentus](https://www.curseforge.com/projects/635427) · [YUNG's API](https://www.curseforge.com/projects/421850) · [Zeta](https://www.curseforge.com/projects/968868) · [AttributeFix](https://www.curseforge.com/projects/280510) · [Apothic Attributes](https://www.curseforge.com/projects/898963) · [Quark](https://www.curseforge.com/projects/243121) · [Multi-Piston](https://www.curseforge.com/projects/303278) · [Structurize](https://www.curseforge.com/projects/298744) · [BlockUI](https://www.curseforge.com/projects/522992)
+[Architectury API](https://www.curseforge.com/projects/419699) · [Balm](https://www.curseforge.com/projects/531761) · [Bookshelf](https://www.curseforge.com/projects/228525) · [Caelus API](https://www.curseforge.com/projects/308989) · [Citadel](https://www.curseforge.com/projects/331936) · [Cloth Config](https://www.curseforge.com/projects/348521) · [Configured](https://www.curseforge.com/projects/457570) · [CoroUtil](https://www.curseforge.com/projects/237749) · [Cristel Lib](https://www.curseforge.com/projects/856996) · [Curios API](https://www.curseforge.com/projects/309927) · [FTB Library](https://www.curseforge.com/projects/404465) · [GeckoLib](https://www.curseforge.com/projects/388172) · [Guard Villagers](https://www.curseforge.com/projects/360203) · [Iceberg](https://www.curseforge.com/projects/520110) · [Inline](https://www.curseforge.com/projects/971167) · [Integrated API](https://www.curseforge.com/projects/817709) · [Iron's Lib](https://www.curseforge.com/projects/1492763) · [Kotlin for Forge](https://www.curseforge.com/projects/351264) · [Lionfish API](https://www.curseforge.com/projects/1001614) · [Lithostitched](https://www.curseforge.com/projects/936015) · [Majrusz Library](https://www.curseforge.com/projects/437409) · [Moonlight Lib](https://www.curseforge.com/projects/499980) · [mutil](https://www.curseforge.com/projects/351914) · [Patchouli](https://www.curseforge.com/projects/306770) · [PAUCAL](https://www.curseforge.com/projects/597824) · [Placebo](https://www.curseforge.com/projects/283644) · [playerAnimator](https://www.curseforge.com/projects/658587) · [Prism](https://www.curseforge.com/projects/638111) · [Puzzles Lib](https://www.curseforge.com/projects/495476) · [Searchables](https://www.curseforge.com/projects/858542) · [TerraBlender](https://www.curseforge.com/projects/563928) · [TownTalk](https://www.curseforge.com/projects/900364) · [UniLib](https://www.curseforge.com/projects/1056812) · [Valhelsia Core](https://www.curseforge.com/projects/416935) · [Yeetus Experimentus](https://www.curseforge.com/projects/635427) · [YUNG's API](https://www.curseforge.com/projects/421850) · [Zeta](https://www.curseforge.com/projects/968868) · [AttributeFix](https://www.curseforge.com/projects/280510) · [Apothic Attributes](https://www.curseforge.com/projects/898963) · [Quark](https://www.curseforge.com/projects/243121) · [Multi-Piston](https://www.curseforge.com/projects/303278) · [Structurize](https://www.curseforge.com/projects/298744) · [BlockUI](https://www.curseforge.com/projects/522992)
 
 ---
 
