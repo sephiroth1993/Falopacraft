@@ -415,7 +415,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "61d5afb8024fe5889b08544a7fb12b2fd337204f1d2049dc85f344e3611ae24a"
+hash = "6b068887d211910d6a761277c1648cad5e19c9aeccb5e2adfa6d9813a9e05223"
 metafile = true
 
 [[files]]
@@ -550,17 +550,17 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "1bfa19460d300dc5fd535e57633923f3a7b73fa80f4ed74769fffcb9559891e0"
+hash = "cbcb57a07693007351c0eefcb007274635a1aa6e8471f7f81094b2ac1bdcda22"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "9851307ef7dc5b583e0883f1a4b5a0b001753c02adac9eddc278b4af0be76997"
+hash = "489547c08f9ac45d6aee0579aaf888c83e9f7820fc6233c701af697411cba370"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "521d18d973e16b4abdbc791b210727f8c957f7bc740757d7b863e56077567abb"
+hash = "1f4da54bdb2f2ea80a95b70e9ce2d4f50d501971bbb42600736aff75e1aeac86"
 metafile = true
 
 [[files]]
