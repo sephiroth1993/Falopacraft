@@ -180,7 +180,7 @@ metafile = true
 
 [[files]]
 file = "mods/domum-ornamentum.pw.toml"
-hash = "33dee2df7c95d31ce3ec3d731201ed43ba1a8ad92116438c2108486979914c0b"
+hash = "dfc1089111ea3876a17ab1688db521f3b1abee50bd848a4e47349ff44547c77e"
 metafile = true
 
 [[files]]
@@ -325,7 +325,7 @@ metafile = true
 
 [[files]]
 file = "mods/irons-lib.pw.toml"
-hash = "72a8ce5ebe4af779de8996545200c48e863798d352dc454abb7eab8773a9ca15"
+hash = "d05b4c96047740973ae04cefaca040ef3bc2f29c6689285be674b84d5dbff3dc"
 metafile = true
 
 [[files]]
@@ -555,12 +555,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "321a077efb0bc07aa5ab019947bf3951d62089d9fbed2d9915727bc7541483cc"
+hash = "579fbff2079d03f5a2f0b1660eff7a2baf23e68d9a97ec601b0a8f8892f456f6"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "8e75e33713a1d54ddaddb1dc4498f1e113d724e5c58a4d72e610168bb7010a89"
+hash = "b577fd2e9fd2dbf606f5fb1f138f181f3f5f4f63fd255612d72a3c199b735d78"
 metafile = true
 
 [[files]]
@@ -635,7 +635,7 @@ metafile = true
 
 [[files]]
 file = "mods/wall-jump-txf.pw.toml"
-hash = "c94134ef7aa33de20fa84a966d3f0fd4355edc304d15a5c7aa25f4fd79be6600"
+hash = "374df3fe03f73044c75c81b8d3a902a6519155d212b4ea994f299546041e19dc"
 metafile = true
 
 [[files]]
