@@ -325,12 +325,12 @@ metafile = true
 
 [[files]]
 file = "mods/irons-lib.pw.toml"
-hash = "d05b4c96047740973ae04cefaca040ef3bc2f29c6689285be674b84d5dbff3dc"
+hash = "d088e252d73788a36d179161308ac884f979201fb4ee880473aeb22ede59947a"
 metafile = true
 
 [[files]]
 file = "mods/irons-spells-n-spellbooks.pw.toml"
-hash = "f61d1835a5c388d7eb1bc9727e3a436d9e10bb806ee215ec0f72a8e36d7f5dd2"
+hash = "80c16d0c60b8904ac00d67ba74553ca608bf4f5a9f4562e992567a57d67f5a2d"
 metafile = true
 
 [[files]]
@@ -380,7 +380,7 @@ metafile = true
 
 [[files]]
 file = "mods/lendercataclysm.pw.toml"
-hash = "815728f9eb0cb87cf45b6dcd278b57ffbbbba78f53c74d98156934ca2e6ffbe4"
+hash = "3be86d128ec7858e3cabb72a13cdf423b49eddace2cd4428b1f1b1893b5eb8f9"
 metafile = true
 
 [[files]]
@@ -415,7 +415,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "f5008dc2ec24f4c6ac4bdc4bcc26e7aabb3885968c83f6c65bee45c981b5de59"
+hash = "7a5a2200d1baee83f95776372633ad1b65e4cc7c0b0ceb4ee68102593756026d"
 metafile = true
 
 [[files]]
@@ -535,7 +535,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "58650be97623a6bf442f76994776ebd9d9dd46bb264ee64c2cf8ae85457cd40f"
+hash = "29ff83cc430685951bf7692d6aa3c6b864b4c43b1e7c86221ea83992451f7b01"
 metafile = true
 
 [[files]]
@@ -550,17 +550,17 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "256495f243e8edd16ed92c7889bda02855355aa42727f3583f9ef7714db3dea5"
+hash = "5c4ce47103692248bcdb9cfeb7a774099962e588c6fa5e6ddb1b9f45bed206e3"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "579fbff2079d03f5a2f0b1660eff7a2baf23e68d9a97ec601b0a8f8892f456f6"
+hash = "81d827a7d9654597a56d9d6616b3c6fc0048ab04bccd959f73fb3104067625d5"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "b577fd2e9fd2dbf606f5fb1f138f181f3f5f4f63fd255612d72a3c199b735d78"
+hash = "56a4bb2b3118d4217a720fa426a0a1318663b9093b90f878e90da4d17b361ccf"
 metafile = true
 
 [[files]]
@@ -635,7 +635,7 @@ metafile = true
 
 [[files]]
 file = "mods/wall-jump-txf.pw.toml"
-hash = "374df3fe03f73044c75c81b8d3a902a6519155d212b4ea994f299546041e19dc"
+hash = "44d06ef1eb956bb42db261fc4ddbfcc0a36ee9d05d2a3b4cf018cf9bd2c614d7"
 metafile = true
 
 [[files]]
