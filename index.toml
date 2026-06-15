@@ -115,7 +115,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "2cdcf459d40a74656de99be4ffe3a7849b181251cd0dfe934484ced1fcfdf4e6"
+hash = "8e3688fd137d765dd9a017a0918f87876a0c7a4e00f37fb7d5240960850f5501"
 metafile = true
 
 [[files]]
@@ -225,7 +225,7 @@ metafile = true
 
 [[files]]
 file = "mods/exposure.pw.toml"
-hash = "2b7e34feead35203c6637b7c8afb49cb823ff6ddade568b131ca07c35ad02845"
+hash = "50c495c3ae5b77673bbb888c702bc2380d0528c3c0110db990ae181653bb0f63"
 metafile = true
 
 [[files]]
@@ -265,7 +265,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-library-forge.pw.toml"
-hash = "48e2fa3089beed20a23ff2d171259768b2080ab0ff196841a18eb93c38e1c8b2"
+hash = "efa75ee4aae90dea11316b6e61aecaf9433eeb3d0821f78b4eca41acbbd73e8f"
 metafile = true
 
 [[files]]
@@ -280,7 +280,7 @@ metafile = true
 
 [[files]]
 file = "mods/guard-villagers.pw.toml"
-hash = "0879c3901d41cf58510cbd17d24cdd3a1e7ec063dbda3e22aa0ba8acbb5a215d"
+hash = "aa6e4d61f683ad37bee12c3d2226adced8415297addf18565ced2f37421dc881"
 metafile = true
 
 [[files]]
@@ -330,7 +330,7 @@ metafile = true
 
 [[files]]
 file = "mods/irons-spells-n-spellbooks.pw.toml"
-hash = "80c16d0c60b8904ac00d67ba74553ca608bf4f5a9f4562e992567a57d67f5a2d"
+hash = "d0914d5a9bd79a8b11f3669f848f00d7028405d57c23f47a12ee2dc61a051856"
 metafile = true
 
 [[files]]
@@ -380,7 +380,7 @@ metafile = true
 
 [[files]]
 file = "mods/lendercataclysm.pw.toml"
-hash = "3be86d128ec7858e3cabb72a13cdf423b49eddace2cd4428b1f1b1893b5eb8f9"
+hash = "fbf967b492d575d65f066941652400dc32b998a16ac477a4b8f0efc2f681296a"
 metafile = true
 
 [[files]]
@@ -415,7 +415,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "7a5a2200d1baee83f95776372633ad1b65e4cc7c0b0ceb4ee68102593756026d"
+hash = "390665ddfc241c771619e0c975156bd99eaff6607c250a219fba274b449111c2"
 metafile = true
 
 [[files]]
@@ -550,17 +550,17 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "5c4ce47103692248bcdb9cfeb7a774099962e588c6fa5e6ddb1b9f45bed206e3"
+hash = "25f39841426bf0606207cb57e7c9b8ec41d8a26e79d570b3d5eaecdef3b0cfd9"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "81d827a7d9654597a56d9d6616b3c6fc0048ab04bccd959f73fb3104067625d5"
+hash = "3ffdeb591c2704c811cffc43874d4e9965cce8825c8f97441c66cb23d877845e"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "56a4bb2b3118d4217a720fa426a0a1318663b9093b90f878e90da4d17b361ccf"
+hash = "417ab465d909e310825d1e4b91974a30093e7500acd5dfb87e9169a74d6205f9"
 metafile = true
 
 [[files]]
@@ -745,7 +745,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/modded-omelet.pw.toml"
-hash = "2c3cb2043634200812c213a2cd6624d4f443f3bb3b2007049d6338bae88304be"
+hash = "a4225df4b770d8caec5888f5586ff73b5da7f88ea1c52a1842b99ea5b6389af3"
 metafile = true
 
 [[files]]
