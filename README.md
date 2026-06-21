@@ -1,6 +1,6 @@
 # Falopacraft Minimodpack
 
-**Versión:** 1.0.0 | **Minecraft:** 1.20.1 | **Mod Loader:** Forge 47.4.16
+**Versión:** 1.0.1 | **Minecraft:** 1.20.1 | **Mod Loader:** Forge 47.4.20
 
 Un modpack de Minecraft enfocado en mejorar la experiencia vanilla con contenido de exploración, combate, construcción y calidad de vida, sin alejarse demasiado de la esencia original del juego.
 
@@ -25,6 +25,7 @@ Un modpack de Minecraft enfocado en mejorar la experiencia vanilla con contenido
 | [Mowzie's Mobs](https://www.curseforge.com/projects/250498) | Mobs únicos con mecánicas especiales |
 | [Auto Leveling](https://www.curseforge.com/projects/616126) | Los mobs ganan niveles con el tiempo |
 | [Apotheosis](https://www.curseforge.com/projects/313970) | Overhaul del sistema de encantamientos y spawners |
+| [Hex Casting](https://www.curseforge.com/projects/569849) | Sistema de magia programable mediante runas y hexagramas |
 
 ### 🗺️ Exploración y Mundo
 
@@ -48,6 +49,7 @@ Un modpack de Minecraft enfocado en mejorar la experiencia vanilla con contenido
 | [Integrated Dungeons and Structures](https://www.curseforge.com/projects/605375) | Nuevas estructuras y dungeons integrados |
 | [Immersive Portals](https://www.curseforge.com/projects/355440) | Portales que se pueden ver a través en tiempo real |
 | [Forbidden and Arcanus](https://www.curseforge.com/projects/309858) | Dimensión y materiales mágicos nuevos |
+| [Botania](https://www.curseforge.com/projects/225643) | Magia basada en flores y naturaleza con sistema de maná |
 
 ### 🏗️ Construcción y Decoración
 
@@ -88,7 +90,6 @@ Un modpack de Minecraft enfocado en mejorar la experiencia vanilla con contenido
 | Mod | Descripción |
 |-----|-------------|
 | [Tetra](https://www.curseforge.com/projects/289712) | Sistema modular de herramientas y armas |
-| [tetracelium](https://www.curseforge.com/projects/929534) | Extensión para Tetra |
 | [Elytra Slot](https://www.curseforge.com/projects/317716) | Slot de Elytra dedicado vía Curios |
 | [Wall-Jump](https://www.curseforge.com/projects/909143) | Permite saltar en las paredes |
 | [Waystones](https://www.curseforge.com/projects/245755) | Piedras de teletransporte reutilizables |
@@ -100,60 +101,62 @@ Un modpack de Minecraft enfocado en mejorar la experiencia vanilla con contenido
 
 ### 📖 Interfaz y Calidad de Vida
 
-| Mod | Descripción |
-|-----|-------------|
-| [Just Enough Items (JEI)](https://www.curseforge.com/projects/238222) | Recetas y usos de todos los items |
-| [Just Enough Resources (JER)](https://www.curseforge.com/projects/240630) | Información de drops y generación de recursos |
-| [Just Enough Professions (JEP)](https://www.curseforge.com/projects/417645) | Muestra las profesiones de los aldeanos en JEI |
-| [Just Enough Breeding (JEBr)](https://www.curseforge.com/projects/899386) | Información de cría de animales en JEI |
-| [Jade](https://www.curseforge.com/projects/324717) | Información sobre bloques y entidades al mirarlos |
-| [JourneyMap](https://www.curseforge.com/projects/32274) | Minimapa y mapa completo del mundo |
-| [AppleSkin](https://www.curseforge.com/projects/248787) | Muestra información de hambre y saturación |
-| [Chat Heads](https://www.curseforge.com/projects/407206) | Avatares de los jugadores en el chat |
-| [Ping Wheel](https://www.curseforge.com/projects/734339) | Rueda de pings para comunicación rápida |
-| [Controlling](https://www.curseforge.com/projects/250398) | Búsqueda avanzada de keybinds |
-| [Better Third Person](https://www.curseforge.com/projects/435044) | Cámara en tercera persona mejorada |
-| [Advancement Plaques](https://www.curseforge.com/projects/499826) | Notificaciones de logros más bonitas |
-| [Item Highlighter](https://www.curseforge.com/projects/521590) | Resalta items nuevos en el inventario |
-| [Legendary Tooltips](https://www.curseforge.com/projects/532127) | Tooltips de items con bordes y efectos |
-| [Enchantment Descriptions](https://www.curseforge.com/projects/250419) | Descripciones de los encantamientos en el tooltip |
-| [Tooltip Overhaul](https://www.curseforge.com/projects/1327508) | Mejoras generales a los tooltips |
-| [Traveler's Titles](https://www.curseforge.com/projects/504908) | Títulos en pantalla al explorar biomas y dimensiones |
-| [What Are They Up To](https://www.curseforge.com/projects/945479) | Muestra qué están haciendo los aldeanos |
-| [Lootr](https://www.curseforge.com/projects/361276) | Cofres de loot individuales por jugador |
-| [Polymorph](https://www.curseforge.com/projects/388800) | Resuelve conflictos entre recetas de crafteo |
-| [Visual Workbench](https://www.curseforge.com/projects/500273) | Los items aparecen físicamente en la mesa de crafteo |
+| Mod | Descripción | Lado |
+|-----|-------------|------|
+| [Just Enough Items (JEI)](https://www.curseforge.com/projects/238222) | Recetas y usos de todos los items | Ambos |
+| [Just Enough Resources (JER)](https://www.curseforge.com/projects/240630) | Información de drops y generación de recursos | Ambos |
+| [Just Enough Professions (JEP)](https://www.curseforge.com/projects/417645) | Muestra las profesiones de los aldeanos en JEI | Ambos |
+| [Just Enough Breeding (JEBr)](https://www.curseforge.com/projects/899386) | Información de cría de animales en JEI | Ambos |
+| [Jade](https://www.curseforge.com/projects/324717) | Información sobre bloques y entidades al mirarlos | Ambos |
+| [JourneyMap](https://www.curseforge.com/projects/32274) | Minimapa y mapa completo del mundo | Cliente |
+| [AppleSkin](https://www.curseforge.com/projects/248787) | Muestra información de hambre y saturación | Ambos |
+| [Chat Heads](https://www.curseforge.com/projects/407206) | Avatares de los jugadores en el chat | Cliente |
+| [Ping Wheel](https://www.curseforge.com/projects/734339) | Rueda de pings para comunicación rápida | Ambos |
+| [Controlling](https://www.curseforge.com/projects/250398) | Búsqueda avanzada de keybinds | Cliente |
+| [Better Third Person](https://www.curseforge.com/projects/435044) | Cámara en tercera persona mejorada | Cliente |
+| [Advancement Plaques](https://www.curseforge.com/projects/499826) | Notificaciones de logros más bonitas | Cliente |
+| [Item Highlighter](https://www.curseforge.com/projects/521590) | Resalta items nuevos en el inventario | Cliente |
+| [Legendary Tooltips](https://www.curseforge.com/projects/532127) | Tooltips de items con bordes y efectos | Cliente |
+| [Enchantment Descriptions](https://www.curseforge.com/projects/250419) | Descripciones de los encantamientos en el tooltip | Cliente |
+| [Tooltip Overhaul](https://www.curseforge.com/projects/1327508) | Mejoras generales a los tooltips | Cliente |
+| [Traveler's Titles](https://www.curseforge.com/projects/504908) | Títulos en pantalla al explorar biomas y dimensiones | Cliente |
+| [What Are They Up To](https://www.curseforge.com/projects/945479) | Muestra qué están haciendo los aldeanos | Cliente |
+| [Lootr](https://www.curseforge.com/projects/361276) | Cofres de loot individuales por jugador | Ambos |
+| [Polymorph](https://www.curseforge.com/projects/388800) | Resuelve conflictos entre recetas de crafteo | Ambos |
+| [Visual Workbench](https://www.curseforge.com/projects/500273) | Los items aparecen físicamente en la mesa de crafteo | Cliente |
 
 ### ⚡ Performance y Optimización
 
-| Mod | Descripción |
-|-----|-------------|
-| [Embeddium](https://www.curseforge.com/projects/908741) | Renderizado optimizado (fork de Sodium para Forge) |
-| [Oculus](https://www.curseforge.com/projects/581495) | Soporte de shaders para Embeddium |
-| [FerriteCore](https://www.curseforge.com/projects/429235) | Reduce el uso de RAM |
-| [Entity Culling](https://www.curseforge.com/projects/448233) | No renderiza entidades fuera de la vista |
-| [FastFurnace](https://www.curseforge.com/projects/299540) | Optimiza el cálculo de recetas del horno |
-| [FastWorkbench](https://www.curseforge.com/projects/288885) | Optimiza el cálculo de recetas del crafteo |
-| [FastSuite](https://www.curseforge.com/projects/475117) | Optimiza el sistema de recetas en general |
-| [Fast Leaf Decay](https://www.curseforge.com/projects/230976) | Las hojas caen más rápido al cortar árboles |
-| [Clumps](https://www.curseforge.com/projects/256717) | Agrupa orbes de experiencia para mejor performance |
-| [spark](https://www.curseforge.com/projects/361579) | Profiler de performance en tiempo real |
+| Mod | Descripción | Lado |
+|-----|-------------|------|
+| [Embeddium](https://www.curseforge.com/projects/908741) | Renderizado optimizado (fork de Sodium para Forge) | Cliente |
+| [Oculus](https://www.curseforge.com/projects/581495) | Soporte de shaders para Embeddium | Cliente |
+| [FerriteCore](https://www.curseforge.com/projects/429235) | Reduce el uso de RAM | Ambos |
+| [Entity Culling](https://www.curseforge.com/projects/448233) | No renderiza entidades fuera de la vista | Ambos |
+| [FastFurnace](https://www.curseforge.com/projects/299540) | Optimiza el cálculo de recetas del horno | Ambos |
+| [FastWorkbench](https://www.curseforge.com/projects/288885) | Optimiza el cálculo de recetas del crafteo | Ambos |
+| [FastSuite](https://www.curseforge.com/projects/475117) | Optimiza el sistema de recetas en general | Ambos |
+| [Fast Leaf Decay](https://www.curseforge.com/projects/230976) | Las hojas caen más rápido al cortar árboles | Ambos |
+| [Clumps](https://www.curseforge.com/projects/256717) | Agrupa orbes de experiencia para mejor performance | Ambos |
+| [spark](https://www.curseforge.com/projects/361579) | Profiler de performance en tiempo real | Ambos |
 
 ### 🎨 Visual y Audio
 
-| Mod | Descripción |
-|-----|-------------|
-| [Not Enough Animations](https://www.curseforge.com/projects/433760) | Animaciones adicionales en primera persona |
-| [Skin Layers 3D](https://www.curseforge.com/projects/521480) | Capas de skin del jugador en 3D |
-| [Entity Model Features (EMF)](https://www.curseforge.com/projects/844662) | Modelos de entidades personalizados |
-| [Entity Texture Features (ETF)](https://www.curseforge.com/projects/568563) | Texturas de entidades personalizadas |
-| [Sound Physics Remastered](https://www.curseforge.com/projects/535489) | Física de sonido realista con reverb y oclusión |
-| [Exposure](https://www.curseforge.com/projects/871755) | Sistema de fotografía en el juego |
-| [Exposure Catalog](https://www.curseforge.com/projects/1023882) | Galería de fotos tomadas con Exposure |
-| [CraftPresence](https://www.curseforge.com/projects/297038) | Rich Presence de Discord |
-| [MinecraftCapes Mod](https://www.curseforge.com/projects/359836) | Soporte de capas personalizadas |
+| Mod | Descripción | Lado |
+|-----|-------------|------|
+| [Not Enough Animations](https://www.curseforge.com/projects/433760) | Animaciones adicionales en primera persona | Cliente |
+| [Skin Layers 3D](https://www.curseforge.com/projects/521480) | Capas de skin del jugador en 3D | Cliente |
+| [Entity Model Features (EMF)](https://www.curseforge.com/projects/844662) | Modelos de entidades personalizados | Cliente |
+| [Entity Texture Features (ETF)](https://www.curseforge.com/projects/568563) | Texturas de entidades personalizadas | Cliente |
+| [Sound Physics Remastered](https://www.curseforge.com/projects/535489) | Física de sonido realista con reverb y oclusión | Cliente |
+| [Exposure](https://www.curseforge.com/projects/871755) | Sistema de fotografía en el juego | Ambos |
+| [Exposure Catalog](https://www.curseforge.com/projects/1023882) | Galería de fotos tomadas con Exposure | Cliente |
+| [CraftPresence](https://www.curseforge.com/projects/297038) | Rich Presence de Discord | Cliente |
+| [MinecraftCapes Mod](https://www.curseforge.com/projects/359836) | Soporte de capas personalizadas | Cliente |
 
 ### 🌿 Shaders y Resource Packs
+
+Todos los mods de esta sección son **exclusivos de cliente** — no se instalan en el servidor.
 
 | Pack | Descripción |
 |------|-------------|
@@ -172,11 +175,11 @@ Un modpack de Minecraft enfocado en mejorar la experiencia vanilla con contenido
 
 Mods de soporte requeridos por otros mods del pack:
 
-[Architectury API](https://www.curseforge.com/projects/419699) · [Balm](https://www.curseforge.com/projects/531761) · [Bookshelf](https://www.curseforge.com/projects/228525) · [Caelus API](https://www.curseforge.com/projects/308989) · [Citadel](https://www.curseforge.com/projects/331936) · [Cloth Config](https://www.curseforge.com/projects/348521) · [Configured](https://www.curseforge.com/projects/457570) · [CoroUtil](https://www.curseforge.com/projects/237749) · [Cristel Lib](https://www.curseforge.com/projects/856996) · [Curios API](https://www.curseforge.com/projects/309927) · [FTB Library](https://www.curseforge.com/projects/404465) · [GeckoLib](https://www.curseforge.com/projects/388172) · [Guard Villagers](https://www.curseforge.com/projects/360203) · [Iceberg](https://www.curseforge.com/projects/520110) · [Integrated API](https://www.curseforge.com/projects/817709) · [Lionfish API](https://www.curseforge.com/projects/1001614) · [Lithostitched](https://www.curseforge.com/projects/936015) · [Majrusz Library](https://www.curseforge.com/projects/437409) · [Moonlight Lib](https://www.curseforge.com/projects/499980) · [mutil](https://www.curseforge.com/projects/351914) · [Patchouli](https://www.curseforge.com/projects/306770) · [Placebo](https://www.curseforge.com/projects/283644) · [playerAnimator](https://www.curseforge.com/projects/658587) · [Prism](https://www.curseforge.com/projects/638111) · [Puzzles Lib](https://www.curseforge.com/projects/495476) · [Searchables](https://www.curseforge.com/projects/858542) · [TerraBlender](https://www.curseforge.com/projects/563928) · [TownTalk](https://www.curseforge.com/projects/900364) · [UniLib](https://www.curseforge.com/projects/1056812) · [Valhelsia Core](https://www.curseforge.com/projects/416935) · [Yeetus Experimentus](https://www.curseforge.com/projects/635427) · [YUNG's API](https://www.curseforge.com/projects/421850) · [Zeta](https://www.curseforge.com/projects/968868) · [AttributeFix](https://www.curseforge.com/projects/280510) · [Apothic Attributes](https://www.curseforge.com/projects/898963) · [Quark](https://www.curseforge.com/projects/243121) · [Multi-Piston](https://www.curseforge.com/projects/303278) · [Structurize](https://www.curseforge.com/projects/298744) · [BlockUI](https://www.curseforge.com/projects/522992)
+[Architectury API](https://www.curseforge.com/projects/419699) · [Balm](https://www.curseforge.com/projects/531761) · [Bookshelf](https://www.curseforge.com/projects/228525) · [Caelus API](https://www.curseforge.com/projects/308989) · [Citadel](https://www.curseforge.com/projects/331936) · [Cloth Config](https://www.curseforge.com/projects/348521) · [Configured](https://www.curseforge.com/projects/457570) · [CoroUtil](https://www.curseforge.com/projects/237749) · [Cristel Lib](https://www.curseforge.com/projects/856996) · [Curios API](https://www.curseforge.com/projects/309927) · [FTB Library](https://www.curseforge.com/projects/404465) · [GeckoLib](https://www.curseforge.com/projects/388172) · [Guard Villagers](https://www.curseforge.com/projects/360203) · [Iceberg](https://www.curseforge.com/projects/520110) · [Inline](https://www.curseforge.com/projects/971167) · [Integrated API](https://www.curseforge.com/projects/817709) · [Iron's Lib](https://www.curseforge.com/projects/1492763) · [Kotlin for Forge](https://www.curseforge.com/projects/351264) · [Lionfish API](https://www.curseforge.com/projects/1001614) · [Lithostitched](https://www.curseforge.com/projects/936015) · [Majrusz Library](https://www.curseforge.com/projects/437409) · [Moonlight Lib](https://www.curseforge.com/projects/499980) · [mutil](https://www.curseforge.com/projects/351914) · [Patchouli](https://www.curseforge.com/projects/306770) · [PAUCAL](https://www.curseforge.com/projects/597824) · [Placebo](https://www.curseforge.com/projects/283644) · [playerAnimator](https://www.curseforge.com/projects/658587) · [Prism](https://www.curseforge.com/projects/638111) · [Puzzles Lib](https://www.curseforge.com/projects/495476) · [Searchables](https://www.curseforge.com/projects/858542) · [TerraBlender](https://www.curseforge.com/projects/563928) · [TownTalk](https://www.curseforge.com/projects/900364) · [UniLib](https://www.curseforge.com/projects/1056812) · [Valhelsia Core](https://www.curseforge.com/projects/416935) · [Yeetus Experimentus](https://www.curseforge.com/projects/635427) · [YUNG's API](https://www.curseforge.com/projects/421850) · [Zeta](https://www.curseforge.com/projects/968868) · [AttributeFix](https://www.curseforge.com/projects/280510) · [Apothic Attributes](https://www.curseforge.com/projects/898963) · [Quark](https://www.curseforge.com/projects/243121) · [Multi-Piston](https://www.curseforge.com/projects/303278) · [Structurize](https://www.curseforge.com/projects/298744) · [BlockUI](https://www.curseforge.com/projects/522992)
 
 ---
 
-## Instalación
+## Instalación (Cliente)
 
 1. Descargá el `.zip` desde [Releases](../../releases)
 2. Abrí tu launcher de preferencia
@@ -184,3 +187,31 @@ Mods de soporte requeridos por otros mods del pack:
 4. Seleccioná el archivo `.zip` descargado
 
 > ⚠️ Se recomienda asignar al menos **6 GB de RAM** para una experiencia fluida.
+
+---
+
+## Instalación (Servidor dedicado)
+
+El pack usa el campo `side` de packwiz para marcar qué mods son necesarios en cada lado. Los mods de renderizado, shaders, resourcepacks, UI/cosmética y similares están marcados como `client` y **no se instalan en el servidor**. Esto se hace con `packwiz-installer-bootstrap`, que lee directamente el `pack.toml` del repo y filtra automáticamente.
+
+### Pasos
+
+1. Instalá Java 17+ y Forge **47.4.20** para Minecraft **1.20.1** en modo servidor (`forge-1.20.1-47.4.20-installer.jar --installServer`).
+2. Descargá [`packwiz-installer-bootstrap.jar`](https://github.com/packwiz/packwiz-installer-bootstrap/releases) y colocalo en la carpeta del servidor.
+3. Corré el bootstrap apuntando a la URL raw del `pack.toml` de este repo:
+
+   ```bash
+   java -jar packwiz-installer-bootstrap.jar -g -s server "https://raw.githubusercontent.com/<tu-usuario>/<tu-repo>/main/pack.toml"
+   ```
+
+   - `-g`: acepta automáticamente sin pedir confirmación (útil para automatizar)
+   - `-s server`: le indica que es una instalación server-side, así descarga solo `server` + `both`
+
+4. Iniciá el servidor normalmente con el script `run.sh` / `run.bat` que generó el instalador de Forge.
+5. Para actualizar el server cuando el pack cambie, simplemente volvé a correr el mismo comando del paso 3 — packwiz-installer sincroniza diffs, no vuelve a descargar todo.
+
+> 💡 Tip: podés agregar ese mismo comando a un script de arranque (`start.sh`) para que el servidor se actualice solo antes de cada inicio.
+
+### ¿Por qué no un branch o repo aparte?
+
+No hace falta. Todo el pack vive en un solo `pack.toml`/`index.toml`; el campo `side` en cada `.pw.toml` (`client`, `server` o `both`) es lo que decide qué se instala en cada lado. Mantener un solo árbol de archivos evita tener que sincronizar manualmente actualizaciones de mods entre dos repos o branches.

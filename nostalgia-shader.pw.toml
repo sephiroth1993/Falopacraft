@@ -1,6 +1,6 @@
 name = "Nostalgia Shader"
 filename = "Nostalgia_v5.1.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
