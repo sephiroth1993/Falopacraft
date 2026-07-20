@@ -360,7 +360,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "f5703564821581ef4123eb6d50f8029b32baa8a563bc0b379420f362cdb81165"
+hash = "788ff3e7440e0445541a3c2d8613adc7cb9403535657e84e64be3c826639aea5"
 metafile = true
 
 [[files]]
@@ -550,7 +550,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "7eee1c96436a7ec635c261fc1beb97d0b9db13cd00ec7bf1df44bb0dd7c957ab"
+hash = "142fd3452686832d531e966f8966f35930605445584977c74cb628e74df32366"
 metafile = true
 
 [[files]]
@@ -565,17 +565,17 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "a49aaffe364754cba5ba5416a4eab39ba0048beb0d4f1493be643d943e19d6bd"
+hash = "8796f5df2707261405f1d5257ff71bfec3dfc7c8f41ef92436d0f59ae6115237"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "80f84561bb27314d026bf6a6a8ec81e32e19b8b69116cd1516dd52c9e5adc75f"
+hash = "048736f3c046f8713b1c7e09ba08a92ee8a22eae16352b84cad1ab281f551e88"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "b210f3af7724cbaa844b1d6d520b9ee289ce34ecd80ea3929972b6db9085eabc"
+hash = "8da05cff3b1b67cd72c21fd03e2e04a0ebb5b0d8db8e3028cd62363bd64185b6"
 metafile = true
 
 [[files]]
@@ -610,7 +610,7 @@ metafile = true
 
 [[files]]
 file = "mods/tetra.pw.toml"
-hash = "86b0a9df336f8fee1a04d2b17d8987bbac8be73c7f8cde9762bc9c90700ac41d"
+hash = "a8a8a275ab1ccc7c9d528b48bcb18a3fe65dbefa6121e9040155823e2e3eede4"
 metafile = true
 
 [[files]]
