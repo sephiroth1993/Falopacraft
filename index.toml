@@ -110,7 +110,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "2a5ee452f344e9c42944492cfe89b351d8596a4cafb964702cfe1180d2ddc0c6"
+hash = "4f6614652165771b05f6ccc36f2e4bf1925b2d2b84f9ef7c1627ae6592a717aa"
 metafile = true
 
 [[files]]
@@ -350,12 +350,12 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "8f359d190506a6f824763b8e7c390d9e22204ef11e3ffa5ef980000d17e2c2b6"
+hash = "a2277a000bcab08a8e0939dae7c8ef3b1db5327e2fa7bd37919e4e2f1b3c174d"
 metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "a125c19cc9c6166276185b81feddaf24da665a010424324657ce1c68ba134bf4"
+hash = "114f353c5950cc7ae5ea8ec4e9141288bb63aa0d2516a215fbf2c35fddf4ffd9"
 metafile = true
 
 [[files]]
@@ -425,7 +425,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "b028b9615fc909477f7b27c5cb3a273612676d86f99845ecb4e282bc5c1bf01a"
+hash = "486aaad4d7d9ab2da40311fc67e4af0376c680dc2dd43841dbdad6f76ce19de4"
 metafile = true
 
 [[files]]
@@ -565,17 +565,17 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "8796f5df2707261405f1d5257ff71bfec3dfc7c8f41ef92436d0f59ae6115237"
+hash = "abf41d9c699229abdf6a60648e83a062b319a2d7cece5031ac44a9cece5333c8"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "048736f3c046f8713b1c7e09ba08a92ee8a22eae16352b84cad1ab281f551e88"
+hash = "d03849bd372fe56449fc9a2fe7f931be02623f96f13d2101848fc857e708cb30"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "8da05cff3b1b67cd72c21fd03e2e04a0ebb5b0d8db8e3028cd62363bd64185b6"
+hash = "afb75748f7376f57564c283665a2a00e01eb7f5cac2e19dd2113bf17febd78bb"
 metafile = true
 
 [[files]]
