@@ -60,7 +60,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "6e777e9c5758493d4e2e238806df02a40d06072cb8f3b448563dd62c461305b0"
+hash = "ddff810b39bb8873325aa34230c2a174073ad9bbf002e04a66835735550a1b7b"
 metafile = true
 
 [[files]]
@@ -355,12 +355,12 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "114f353c5950cc7ae5ea8ec4e9141288bb63aa0d2516a215fbf2c35fddf4ffd9"
+hash = "8b66653c819107739a814a3df4eddee2eade81ed849678527e032c70e1812cd2"
 metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "788ff3e7440e0445541a3c2d8613adc7cb9403535657e84e64be3c826639aea5"
+hash = "4d7d38f7b83d6aae1d38610f0920440abaf8e10144eb56ba14fdb72d67018bb3"
 metafile = true
 
 [[files]]
@@ -425,7 +425,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "486aaad4d7d9ab2da40311fc67e4af0376c680dc2dd43841dbdad6f76ce19de4"
+hash = "7e5c00c05721cf54ed0b23c833536146038ba692d9e5dbc4726681168f67f9a4"
 metafile = true
 
 [[files]]
