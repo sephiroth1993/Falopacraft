@@ -110,7 +110,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "4f6614652165771b05f6ccc36f2e4bf1925b2d2b84f9ef7c1627ae6592a717aa"
+hash = "50b2789717ff838e63cf0432c2b403153bb7a81eb6af9642f3e9dd2b47e49176"
 metafile = true
 
 [[files]]
@@ -355,12 +355,12 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "8b66653c819107739a814a3df4eddee2eade81ed849678527e032c70e1812cd2"
+hash = "061527c5783c7b714ac798f827f41bf50d55242ad164e1db9e58a59ef15439d0"
 metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "4d7d38f7b83d6aae1d38610f0920440abaf8e10144eb56ba14fdb72d67018bb3"
+hash = "98316053f25901df2bc9170bed5ce25ce5ec2eb1460813d620d7562e414dfdf1"
 metafile = true
 
 [[files]]
@@ -425,7 +425,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "7e5c00c05721cf54ed0b23c833536146038ba692d9e5dbc4726681168f67f9a4"
+hash = "0cdb3c5953e3b1ec4547acdcac098c5918f6f83ed3a27c93cb811aaef43314ce"
 metafile = true
 
 [[files]]
@@ -550,7 +550,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "142fd3452686832d531e966f8966f35930605445584977c74cb628e74df32366"
+hash = "9513ac09c89048e99b836510845da11933a7fd6cbd9cfa50073d3b0b31faa98f"
 metafile = true
 
 [[files]]
@@ -565,17 +565,17 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "abf41d9c699229abdf6a60648e83a062b319a2d7cece5031ac44a9cece5333c8"
+hash = "12e5dc611e613acd730c15440550f807484fe6d8df3b3174284359b332061112"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "d03849bd372fe56449fc9a2fe7f931be02623f96f13d2101848fc857e708cb30"
+hash = "1186ff9f90257bbcbf32048d02c3e549829c95fe8934dbfe946418e9c506ba67"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "afb75748f7376f57564c283665a2a00e01eb7f5cac2e19dd2113bf17febd78bb"
+hash = "5b1257f5b74943a65c9e13c4a8f368257c415568e5a720ac4bc4acab6052d90b"
 metafile = true
 
 [[files]]
@@ -590,7 +590,7 @@ metafile = true
 
 [[files]]
 file = "mods/structurize.pw.toml"
-hash = "f3e28999ec3aa4973621ebd2ba2bf7f1af0a50f950ffe545444c7ebad54c5921"
+hash = "5661b05e4b3c0a9225dbfb0820e6473b0aebbad3a0efd4fb7aa44f7ff827bd59"
 metafile = true
 
 [[files]]
@@ -610,7 +610,7 @@ metafile = true
 
 [[files]]
 file = "mods/tetra.pw.toml"
-hash = "a8a8a275ab1ccc7c9d528b48bcb18a3fe65dbefa6121e9040155823e2e3eede4"
+hash = "b84cadb20c228e9c362566c45dd83623f2fb22026798f3c5594cf64c88029e9e"
 metafile = true
 
 [[files]]
