@@ -15,7 +15,7 @@ metafile = true
 
 [[files]]
 file = "makeup-ultra-fast-shader.pw.toml"
-hash = "90608be59b2fdc5baed77feb982fdd89ecab1f3361800af0ad3b977d3e5242a4"
+hash = "bf0ecd1d769e20548114371a07bd44094a2a9de5d47435d65b595fc0697c10c8"
 metafile = true
 
 [[files]]
@@ -25,7 +25,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "420f60e542e731334fc62fc16a9945a60dfa8f6c5a647c71b2cf9217d50ea7f5"
+hash = "4327ca177fdbd9cfc0c2f442bec68899b6c8e8eb46f0e6b04548178c244b6a84"
 metafile = true
 
 [[files]]
@@ -110,7 +110,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "50b2789717ff838e63cf0432c2b403153bb7a81eb6af9642f3e9dd2b47e49176"
+hash = "ebcc4d25891c6fcf456064ca2591b02c0cb4c4f03aee96290f94dfea97d5275c"
 metafile = true
 
 [[files]]
@@ -330,7 +330,7 @@ metafile = true
 
 [[files]]
 file = "mods/integrated-api.pw.toml"
-hash = "d6fc65cc3bdf40030945cb3a42d96382906dd2453a4f32ec121e21ccb1119389"
+hash = "bfbb5386d90025e476d833abefaa1d31c26b61f4690db90422ede763b64efe9e"
 metafile = true
 
 [[files]]
@@ -355,12 +355,12 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "061527c5783c7b714ac798f827f41bf50d55242ad164e1db9e58a59ef15439d0"
+hash = "881c2141c0584ae38f73c2adba9d3db51b6bd1f82ff841575a2baa5560af175f"
 metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "98316053f25901df2bc9170bed5ce25ce5ec2eb1460813d620d7562e414dfdf1"
+hash = "1fbe3d1877520d15efabd70f534c91a40ecd0210ff1b7af3a0862d3d44482a80"
 metafile = true
 
 [[files]]
@@ -425,7 +425,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "0cdb3c5953e3b1ec4547acdcac098c5918f6f83ed3a27c93cb811aaef43314ce"
+hash = "7853c06a90fb36d5518566ab5ae1f77bdba37eb0ffffc6c73b26d402db64c31f"
 metafile = true
 
 [[files]]
@@ -565,17 +565,17 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "12e5dc611e613acd730c15440550f807484fe6d8df3b3174284359b332061112"
+hash = "9905db30a583c939eb7b4ebe6d89fed2382983ea1e3b1020b8d86490b111f954"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "1186ff9f90257bbcbf32048d02c3e549829c95fe8934dbfe946418e9c506ba67"
+hash = "80b68d98f01c727a24d6945b264c105779123e506d3849deb1349971fef0b11e"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "5b1257f5b74943a65c9e13c4a8f368257c415568e5a720ac4bc4acab6052d90b"
+hash = "3b5b962d13113db92d6efeff6885cbb06d5ab2d333d6d8acd1bfaaa6959da8a7"
 metafile = true
 
 [[files]]
