@@ -95,7 +95,7 @@ metafile = true
 
 [[files]]
 file = "mods/botania.pw.toml"
-hash = "7277f55075a3afc512bdf96216e4264a74b7eae69b45c13130c73b636956fd6e"
+hash = "61f984bd0e5b93c91a9055f8cba6ca6b818b043f331817567c036a5a40c14d31"
 metafile = true
 
 [[files]]
@@ -230,7 +230,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
-hash = "d7139e5db4b5a9b5d80330854bb23ce2cd197009b6d8e3636aa017434066b830"
+hash = "d753e79a5ac72386b753289212d61a1808dcbf64787b860f7ac93de34a063719"
 metafile = true
 
 [[files]]
@@ -290,7 +290,7 @@ metafile = true
 
 [[files]]
 file = "mods/guard-villagers.pw.toml"
-hash = "aa6e4d61f683ad37bee12c3d2226adced8415297addf18565ced2f37421dc881"
+hash = "cfd6e4b9eb13eb30b49a629c7ed92e87d16b700589e95af795e9a7bfe2854998"
 metafile = true
 
 [[files]]
@@ -340,7 +340,7 @@ metafile = true
 
 [[files]]
 file = "mods/irons-spells-n-spellbooks.pw.toml"
-hash = "4f89e36cf31ce139ab798c6ae457fb59e6c5ecbe40632ec95450cd2c43604c84"
+hash = "dfa508b546489c22a8020b08ffbf587e4d795b4e34e571608eead8db445d66cd"
 metafile = true
 
 [[files]]
@@ -355,7 +355,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "881c2141c0584ae38f73c2adba9d3db51b6bd1f82ff841575a2baa5560af175f"
+hash = "148f07128e787b7ada955e4416b9295fc767fb09ed7ede03178a66ff2d038ec3"
 metafile = true
 
 [[files]]
@@ -565,17 +565,17 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "9905db30a583c939eb7b4ebe6d89fed2382983ea1e3b1020b8d86490b111f954"
+hash = "67f25c4e667e3aa0264bf738ad10a342db234ac1396f8397baa5d64c35d83481"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "80b68d98f01c727a24d6945b264c105779123e506d3849deb1349971fef0b11e"
+hash = "b45a8099d4302af4707f6db58779dbe39898d186e999366e64f16653398a9d63"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "3b5b962d13113db92d6efeff6885cbb06d5ab2d333d6d8acd1bfaaa6959da8a7"
+hash = "af0aa7613fe7aeee381714b93d38b392583462ae9737ad1d12c1b18d159f0dc3"
 metafile = true
 
 [[files]]
@@ -680,7 +680,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-better-caves.pw.toml"
-hash = "c6d1c3ab24396c5efd9c0bfa4eeedd9c8c42fe9be329de55d25b299f1e9ea0a2"
+hash = "6ac9a79d2b09bbe053a6dbc2ca4a7b31fb15d0a3984b5609cad6d6bdb9a2a42f"
 metafile = true
 
 [[files]]
