@@ -175,12 +175,12 @@ metafile = true
 
 [[files]]
 file = "mods/doggy-talents-next.pw.toml"
-hash = "6ae6b7e84d0d7c0cbaea4d8b4fdd2ea12520de3fff876e734faf9db1f6035c4b"
+hash = "5ae247c033fc6016be59d31ca362d269da7fe1b171f6821c46a2f26a4988122d"
 metafile = true
 
 [[files]]
 file = "mods/domum-ornamentum.pw.toml"
-hash = "dec6adcd7a2404dc12b0df096820154c5c81fca5dcea69a3ec61ce2776e176b5"
+hash = "09d1ec8d202d90e6146086e107aefcd892f17fc3a4d98311c8b5e54845da4ef7"
 metafile = true
 
 [[files]]
@@ -230,7 +230,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
-hash = "d753e79a5ac72386b753289212d61a1808dcbf64787b860f7ac93de34a063719"
+hash = "349c06c50fa315e9eb618d115f7d1391062706021c645e14f86afae3109d4662"
 metafile = true
 
 [[files]]
@@ -295,7 +295,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexcasting.pw.toml"
-hash = "df0bc0ad5b00c9a0f2900b3f8866825c1ba8f21e55b1f8b92ff264d43c13093e"
+hash = "40ae2ece7768489628eaf6d100dc2166df71d9b490ee94f6bb038bd047975c0e"
 metafile = true
 
 [[files]]
@@ -355,12 +355,12 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "148f07128e787b7ada955e4416b9295fc767fb09ed7ede03178a66ff2d038ec3"
+hash = "799f71e5605fc043d9b286889e9810b0596a3f7bb75fd2388adc6ed3a66a1cb4"
 metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "1fbe3d1877520d15efabd70f534c91a40ecd0210ff1b7af3a0862d3d44482a80"
+hash = "cb258a3f7fa5efa057fb95de365227ec851fad7bf3373d544f4a0df1892b7268"
 metafile = true
 
 [[files]]
@@ -425,7 +425,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "7853c06a90fb36d5518566ab5ae1f77bdba37eb0ffffc6c73b26d402db64c31f"
+hash = "f5e20192f886f690bcc0f4b42754921487a364f83c43c203de35cb02c32fda94"
 metafile = true
 
 [[files]]
