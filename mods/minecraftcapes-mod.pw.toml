@@ -1,13 +1,13 @@
 name = "MinecraftCapes Mod"
-filename = "MinecraftCapes Forge 1.20.1-1.0.2.jar"
+filename = "MinecraftCapes Forge 1.20.1-1.1.0.jar"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "aa72265a3e2b4e743178878e6ae28e55e4c7d773"
+hash = "0bf2b5ce31b177b1472ed7f33b2e7452bcbf9955"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8923725
+file-id = 8992921
 project-id = 359836
