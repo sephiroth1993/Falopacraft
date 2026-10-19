@@ -1,13 +1,13 @@
 name = "Whimscape"
-filename = "Whimscape_1.20-1.20.1_r10.zip"
+filename = "Whimscape_1.20-1.20.1_r11.zip"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "8577e2c37a9a275fb2e4e9daec3bfe858897a359"
+hash = "e763ec3c4fb2be571fd606de43aa066c9fcefba2"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8874917
+file-id = 9243013
 project-id = 682643

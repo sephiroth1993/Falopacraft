@@ -205,12 +205,12 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "9d083aba7b702f76552acf1915853ecf0972fcdf0490192900f470139bd7ac88"
+hash = "3334a3773c09b3b971b2f47122a6bf589eceeef496436a14370a5454ae7dd580"
 metafile = true
 
 [[files]]
 file = "mods/entity-texture-features-fabric.pw.toml"
-hash = "138a2ff4dfc83f0dbae6d58cd5226e9b259389ce9cf4516a80d77f169d28cdf0"
+hash = "5ba599bd7efd378378fcf71b8329d727ad8d5f73552c3c473c7f20f52ae9ec5f"
 metafile = true
 
 [[files]]
@@ -330,7 +330,7 @@ metafile = true
 
 [[files]]
 file = "mods/integrated-api.pw.toml"
-hash = "3d890803d0c6d395f86622bb8064f1448db95cb3168baba260a8124e4b85873d"
+hash = "b34f6224866a6594b885e35d4c7f495846e3701df99bf13718a0f2e95e0a7c68"
 metafile = true
 
 [[files]]
@@ -355,7 +355,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "fcdb28f2879759167d5caba28d2bdc3b7ed61ee6f49c5ed0c134632415d52dcb"
+hash = "9b00a311ee9c8b06e0375ade3f9b1c284032ccfc13f9a11ea54e0e304343ca78"
 metafile = true
 
 [[files]]
@@ -545,7 +545,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "76c3da476419c86e63d828ceb2e502706a25c8a06cd05a3620b9a3dbb3635fa3"
+hash = "014a2bea9e2b7da4118d52b2d51c75333668f9141f413e9f5862f564c551b351"
 metafile = true
 
 [[files]]
@@ -555,27 +555,27 @@ metafile = true
 
 [[files]]
 file = "mods/skin-layers-3d.pw.toml"
-hash = "b4f95d58979a41ee46ab7f9a72ac3a7f647a542b0df3ebf46d80e4a44808cbf0"
+hash = "9b8ecae8d7283b2bf034315e1e66e73ec6450c9e51216d69ad55fa52ea926da5"
 metafile = true
 
 [[files]]
 file = "mods/small-ships.pw.toml"
-hash = "823feebda29907dfe11a3844a38229236a5f8daa1770cc6d3159c0761214d8c9"
+hash = "19692262f3fd8fd33ea2eba5c408c41941304afa2c0f84c47e88732604f3c838"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "a4b98a2343f99dfd4007fddffb3884dac15d54bae192b24396b238c4d84cb8e6"
+hash = "13cad46c58e681187c9a255cdb72f1f60b52349347f751a3d2f0bdf8196db308"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "0a2741eb12ffb1cdaab2cc70f3ca9268dd76e5e1c746b5afaf5c619792c2ef5a"
+hash = "39c294eb8768e9cce2da57d92345f70119897c7a76ec99a7e248ca3389a61382"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "67e55f02702f5e86f77be50ec3ffbd24f233ca9a661db9d8d8b58124edfe2c1e"
+hash = "84481af9d4d98eed54c25044ec5567870abe3a609125dc19a957e533a3f88a80"
 metafile = true
 
 [[files]]
@@ -595,7 +595,7 @@ metafile = true
 
 [[files]]
 file = "mods/subtle-effects.pw.toml"
-hash = "dd759316290e7e2f81b712c3e96aba28ad54a0ff2ad1f2f7750bd5b44e2d0cf8"
+hash = "0e9bd4ab31b319014bb607077da74e8c4bf62fdbd2f15286ed2de0cfe3ce727b"
 metafile = true
 
 [[files]]
@@ -755,7 +755,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
-hash = "9ec67e88b2aff3720a27dde232274a00e65b7ddc5e302a495d18bc41a42028a4"
+hash = "56800c0c17ca41b9496f1800526b720cca7c2b7ebcb523c06d5c37de7b6def12"
 metafile = true
 
 [[files]]
@@ -780,5 +780,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/whimscape.pw.toml"
-hash = "e3c8b7880792a13d430d048b9cb8de500e3235d40f057b79028513dbeedbad0d"
+hash = "6098fe43fddca9bb132fd28913b7469c8cd3e12223206b92d655cc6024e8d196"
 metafile = true
