@@ -1,13 +1,13 @@
 name = "Fresh Animations"
-filename = "FreshAnimations_v1.11_1.20+.zip"
+filename = "FreshAnimations_v1.11.1_1.20+.zip"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "faee9e43f1f2b4f23de9342e175f17503ce93ca0"
+hash = "eaf28f57dee43c469534953517501a021d28cf21"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 9254211
+file-id = 9261871
 project-id = 453763
