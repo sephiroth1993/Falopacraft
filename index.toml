@@ -355,7 +355,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "ffbcb237be1b1e3ef01d202877bae6e86f26679fe735a2d46c0605efb676958b"
+hash = "6bd9e89474d4fa930d476b89499a02a07f750eec60bb47d4b216254ce48c5efa"
 metafile = true
 
 [[files]]
@@ -425,7 +425,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "437d79ef1f6034d5b08042d5b6bc0adc2faad7954ad8d1f0e00319e668816ae7"
+hash = "ee905c9f75a4b70be5584be03977d8cb59a227a33d5a728a7709843170f809e0"
 metafile = true
 
 [[files]]
@@ -460,7 +460,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "c0bef4aec903ed62c02618ab6f044ba3dcb671041d646e32ed076140289c08a1"
+hash = "e7ee5d917a1c22c2954086ddbcb5c664d3f530575e9901ef716e2dc07437c7c2"
 metafile = true
 
 [[files]]
@@ -545,12 +545,12 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "014a2bea9e2b7da4118d52b2d51c75333668f9141f413e9f5862f564c551b351"
+hash = "db9e7a7c65184d213299b2a221b83162f8566069f7cdf543ce14fd2da5cd456b"
 metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "855c121393fb9056e14426b978de1c0798e0f79e231455a488b48d3e14119059"
+hash = "d60416f1a6142500481b322d3376c1f9661ab276d47bbef799e3920b9411c1a0"
 metafile = true
 
 [[files]]
@@ -565,17 +565,17 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "b5ae2d659570356a37e91cc63d5ef4e951c4921f3c0705d73672d1ed1e208d5c"
+hash = "446f8c2fc08aeb3375c9edc16f7a83c3f04dc1e31b4f07c06233b2a0978b164f"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "dcf8727cccdb0ad8094503b13bb41da98baa41ec9f1e4d5cf9d5eeecfd558655"
+hash = "03b55b90a7d504904f4062d7a3b84eb4f9ef3866413cb8bc8bc11157594b33f1"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "a002f1116b155a06f954959c338a7e9692cc0df7b65309917cc9f944b9607863"
+hash = "74ffe14cdf53cda677dd8f3d7e9e1c633f23b5901bbe5f3e94bc58cd8820a1a8"
 metafile = true
 
 [[files]]
@@ -590,7 +590,7 @@ metafile = true
 
 [[files]]
 file = "mods/structurize.pw.toml"
-hash = "7ffef636a0ac94150cc0508744ae00cf42e0fa69aa60560117bf24edecff66a5"
+hash = "da0de7ff51485487c14aa10028ebba2bec9be6b7ec5669a76f91ec0632d35461"
 metafile = true
 
 [[files]]
@@ -755,7 +755,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
-hash = "517dae188ff4e8aa3303b9f5f733f373278109c13722d93e232d0cb01d935d5a"
+hash = "6616ccb2cfa65c753a6791ec74c30bf7ce84c80b7a535e5c1a04b7c43f8ccc38"
 metafile = true
 
 [[files]]
